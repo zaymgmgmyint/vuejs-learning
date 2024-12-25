@@ -11,6 +11,7 @@ Welcome to the **Vue.js Learning Repository**! This project is a step-by-step gu
 2. [Lessons Overview](#lessons-overview)
 3. [Setup Instructions](#setup-instructions)
 4. [Lessons](#lessons)
+   - [Warm-Up: Code Playground](#warm-up-code-playground)
    - [Lesson 1: Basics](#lesson-1-basics)
    - [Lesson 2: Components](#lesson-2-components)
    - [Lesson 3: Routing](#lesson-3-routing)
@@ -46,11 +47,11 @@ To get started:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/zaymgmgmyint/vuejs-learning.git
+   git clone https://github.com/your-username/vuejs-learning.git
    ```
 2. **Navigate to a Lesson**:
    ```bash
-   cd vuejs-learning/lesson-1-basics
+   cd vuejs-learning/warm-up-code-playground
    ```
 3. **Run Code (for CLI-based lessons)**:
    ```bash
@@ -62,6 +63,14 @@ To get started:
 ---
 
 ## Lessons
+
+### Warm-Up: Code Playground
+- Get familiar with basic JavaScript and Vue concepts.
+- Topics:
+  - Setting up a development environment.
+  - Exploring JavaScript ES6+ features used in Vue.
+  - Creating simple interactive elements with Vue.
+- Directory: `warm-up-code-playground/`
 
 ### Lesson 1: Basics
 - Learn the fundamentals of Vue.js.
@@ -108,13 +117,14 @@ To get started:
 
 ## Progress Tracker
 
-| Lesson              | Status       |
-|---------------------|--------------|
-| Lesson 1: Basics    | ✅ Completed |
-| Lesson 2: Components| 🚧 In Progress |
-| Lesson 3: Routing   | ⏳ Upcoming  |
-| Lesson 4: Vuex      | ⏳ Upcoming  |
-| Lesson 5: Advanced  | ⏳ Upcoming  |
+| Lesson                      | Status       |
+|-----------------------------|--------------|
+| Warm-Up: Code Playground    | 🚧 In Progress |
+| Lesson 1: Basics            | ✅ Completed |
+| Lesson 2: Components        | 🚧 In Progress |
+| Lesson 3: Routing           | ⏳ Upcoming  |
+| Lesson 4: Vuex              | ⏳ Upcoming  |
+| Lesson 5: Advanced          | ⏳ Upcoming  |
 
 ---
 
