@@ -119,8 +119,8 @@ To get started:
 
 | Lesson                      | Status       |
 |-----------------------------|--------------|
-| Warm-Up: Code Playground    | 🚧 In Progress |
-| Lesson 1: Basics            | ✅ Completed |
+| Warm-Up: Code Playground    | ✅ Complete |
+| Lesson 1: Basics            | 🚧 In Progress |
 | Lesson 2: Components        | 🚧 In Progress |
 | Lesson 3: Routing           | ⏳ Upcoming  |
 | Lesson 4: Vuex              | ⏳ Upcoming  |
